@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "prepare": "pwd && ls -a node_modules && blah"
+    "prepare": "pwd && ls -a node_modules"
   },
   "keywords": [],
   "author": "",
