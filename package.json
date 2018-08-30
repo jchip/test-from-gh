@@ -4,10 +4,10 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "prepare": "pwd && ls -a node_modules"
+    "prepare": "pwd && ls -a node_modules && touch hello"
   },
   "keywords": [],
-  "files": [ "src" ],
+  "files": [ "src", "hello" ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
