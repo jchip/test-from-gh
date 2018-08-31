@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/index.js",
   "scripts": {
-    "prepare": "pwd && ls -a node_modules && touch hello && ls -la"
+    "prepare": "sleep 5 && pwd && ls -a node_modules && touch hello && ls -la"
   },
   "keywords": [],
   "files": [ "src", "hello" ],
